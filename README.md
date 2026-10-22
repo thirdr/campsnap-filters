@@ -8,7 +8,8 @@ matches real photos closely.
 ## Download
 
 Grab a whole pack from the [latest release](https://github.com/thirdr/campsnap-filters/releases/latest):
-`campsnap2-film-filters.zip`, `campsnap2-expired-filters.zip` or `campsnap2-creative-filters.zip`.
+`campsnap2-film-filters.zip`, `campsnap2-expired-filters.zip`, `campsnap2-creative-filters.zip` or
+`campsnap2-halloween-filters.zip`.
 Each zip holds that pack's filters and a short INSTALL.txt.
 
 ## Installing a filter
@@ -95,6 +96,18 @@ processing measured on a test card. They aren't separate shots, so the filters a
 | Protanopia view | simulates red-weak colour blindness | <img src="docs/examples/protanopia-view.jpg" width="240" alt="Protanopia view"> |
 
 The colour blindness views are approximate (matrices from Machado, Oliveira and Fernandes, 2009).
+
+### Halloween (`filters/halloween`)
+
+| Filter | Look | Example |
+|---|---|---|
+| Pumpkin Patch | purple shadows, orange mids, cream highlights, with some real colour kept | <img src="docs/examples/pumpkin-patch.jpg" width="240" alt="Pumpkin Patch"> |
+| Ghoul | sickly yellow-green, dark teal shadows | <img src="docs/examples/ghoul.jpg" width="240" alt="Ghoul"> |
+| Blood Moon | red and black: red things glow, skies and greenery go dark | <img src="docs/examples/blood-moon.jpg" width="240" alt="Blood Moon"> |
+| Witching Hour | daylight turned into dark purple-blue night | <img src="docs/examples/witching-hour.jpg" width="240" alt="Witching Hour"> |
+| Silent Horror | contrasty black and white with the green tint of old film reels | <img src="docs/examples/silent-horror.jpg" width="240" alt="Silent Horror"> |
+| Toxic | purple shadows into acid-green highlights | <img src="docs/examples/toxic.jpg" width="240" alt="Toxic"> |
+| Candy Corn | brown into orange, yellow and cream | <img src="docs/examples/candy-corn.jpg" width="240" alt="Candy Corn"> |
 
 ## How the filters work
 

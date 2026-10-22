@@ -17,5 +17,6 @@ pack() {  # pack <folder in filters/> <zip name> <folder name inside the zip>
 pack film campsnap2-film-filters "Film filters"
 pack expired campsnap2-expired-filters "Expired filters"
 pack creative campsnap2-creative-filters "Creative filters"
+pack halloween campsnap2-halloween-filters "Halloween filters"
 rm -rf dist/stage
 ls -l dist
