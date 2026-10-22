@@ -1,0 +1,19 @@
+Camp Snap 2 filters - https://github.com/thirdr/campsnap-filters
+
+To use a filter, copy it to the root of the camera's SD card and rename it to the slot you want:
+
+  s.flt   S  (standard)
+  v1.flt  V1
+  v2.flt  V2
+  v3.flt  V3
+  bw.flt  BW
+  a.flt   A  (analog)
+
+Any slot can hold any filter. Delete a slot's file to get the camera's built-in filter back.
+The camera ignores .flt files in folders, so you can keep this whole folder on the card.
+
+On a Mac, delete the hidden "._" files Finder creates next to copied files
+(in Terminal: dot_clean -m /Volumes/<card name>).
+
+Wait a second after switching filter before taking a photo: the first shot straight after a
+switch sometimes comes out with the bottom of the frame in the wrong colours.
