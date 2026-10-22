@@ -114,7 +114,7 @@ Measured on the camera with a test card:
 ## Licence
 
 The fitted film looks **Portrait 400, Nectar 100, Superb 400, Velvet 50 and Tri-Pan 400** are adapted from
-the [RawTherapee Film Simulation Collection](https://rawpedia.rawtherapee.com/Film_Simulation)
+the RawTherapee Film Simulation Collection ([download](https://rawtherapee.com/shared/HaldCLUT.zip), 420 MB zip)
 by Pat David, Pavlov Dmitry and Michael Ezra. The original Hald CLUT tables were fitted to a 3×3 matrix plus
 tone curves, then adjusted in tone. These five files are licensed under
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/): you can share and adapt them if you credit
